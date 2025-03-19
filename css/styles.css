@@ -157,7 +157,7 @@ section{
     color: #0cff5d;
 }
 p{
-    font-size: 20px;
+    font-size: 15px;
     color: #250c0c;
     text-align: justify; /* Justify text */
     margin-left: 20px;
@@ -175,6 +175,6 @@ p{
         font-size: 20px; /* Adjust heading sizes for smaller screens */
     }
     .information {
-        font-size: 12px; /* Adjust information text size for smaller screens */
+        font-size: 16px; /* Adjust information text size for smaller screens */
     }
 }
