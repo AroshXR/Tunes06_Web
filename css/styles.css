@@ -165,16 +165,16 @@ p{
 }
 
 /* Add media queries for mobile responsiveness */
-@media (max-width: 700px) {
+@media (max-width: 768px) {
     p {
-        font-size: 18px; /* Adjust font size for smaller screens */
-        margin-left: 10px;
+        font-size: 15px; /* Adjust font size for smaller screens */
+        margin-left: 5px;
         margin-right: 10px;
     }
     #genuine, #key {
         font-size: 20px; /* Adjust heading sizes for smaller screens */
     }
     .information {
-        font-size: 16px; /* Adjust information text size for smaller screens */
+        font-size: 12px; /* Adjust information text size for smaller screens */
     }
 }
