@@ -49,8 +49,9 @@ to {
 }
 .houseImg{
     justify-content: center;
-    margin-left: 65px;
+    margin-left: 40px;
 }
+
 .houseImg img{
     width: 250px;
     border-radius: 28px;
@@ -59,7 +60,7 @@ to {
 }
 .houseImg img:hover{
     filter: grayscale(80%);
-    transform:scale(1.05);
+    transform:scale(1.2);
 }
 h2{
     background: -webkit-linear-gradient(#0a0606, #04854f);
